@@ -1,0 +1,10 @@
+{
+    "saludo":[
+        {"texto":"Hola Bienvenido al chatbot de soporte al cliente, preguntame sobre la ubicación o el tiempo de entrega"},
+        {"texto":"Hola ¿Cómo estas? Soy un chatbot y puedo ayudarte"},
+        {"texto":"Hola"}
+    ],
+    "tiempoEntrega":[
+        {"texto":"Nuestro tiempo de entrega es de 5 días hábiles"}
+    ]
+}
